@@ -1,6 +1,6 @@
 # Olá, meu nome é Nailton Vieira ! 
 ## Bem vindo ao meu perfil GitHub é um prazer ter vc aqui 👋
-##  🌱 Estou apredenldo
+##  🌱 Esssas são as ferramentas que estou utilizando
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> 
